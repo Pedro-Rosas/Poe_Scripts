@@ -1,2 +1,5 @@
-# Poe_Scripts_Flask
-Flask script and other tools that add quality of life. For Path of Exile Game. (GGG)
+# Poe_Scripts
+Script for Path of Exile players.
+Flask script and other tools that add quality of life.
+The script inside contains comments so anyone can understand and change if needed!
+Enjoy.
