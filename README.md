@@ -1,6 +1,6 @@
 # PoE_Scripts
 
-## Script for Path of Exile players.
+## Script for [Path of Exile](https://www.pathofexile.com/) players.
 
 ### Before running the script, you should install [AutoHotKey](https://www.autohotkey.com/).
 
